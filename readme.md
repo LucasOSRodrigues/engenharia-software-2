@@ -21,7 +21,7 @@ O sistema é dividido em quatro portais:
 
 ## Quadro Kanban
 
-(Link do quadro kanban aq)
+(https://github.com/users/LucasOSRodrigues/projects/5)
 
 ## Integrantes
 

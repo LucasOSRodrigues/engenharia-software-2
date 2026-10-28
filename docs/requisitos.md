@@ -141,4 +141,11 @@ O Agenda+ é um sistema web para clínicas que permite aos pacientes consultar h
 | Desejável | H07, H13 |
 | Fora do escopo | - |
 
-
+## 5. Requisitos Não Funcionais
+| ID | Requisito |
+|----|-----------|
+| RNF01 | O sistema deve ser acessível por navegador web, em computadores e dispositivos móveis. |
+| RNF02 | As senhas dos usuários devem ser armazenadas de forma criptografada. |
+| RNF03 | Cada usuário deve acessar somente as funções permitidas pelo seu papel. |
+| RNF04 | Os dados pessoais e de saúde dos pacientes devem ser tratados conforme a LGPD. |
+| RNF05 | O sistema deve responder às consultas de horários e agendas em menos de 2 segundos. |

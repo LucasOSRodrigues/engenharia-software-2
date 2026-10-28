@@ -133,4 +133,12 @@ O Agenda+ é um sistema web para clínicas que permite aos pacientes consultar h
 - [ ] Usuários com conta inativa não conseguem fazer login.
 - [ ] O histórico de consultas, reservas e ações do usuário inativado é mantido no sistema.
 
+## 4. Priorização de Requisitos
+| Prioridade | Histórias |
+|------------|-----------|
+| Essencial | H01, H02, H03, H04, H08, H09, H14 |
+| Importante | H05, H06, H10, H11, H12, H15, H16 |
+| Desejável | H07, H13 |
+| Fora do escopo | - |
+
 

@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Arquivos gerados
+.next/
+out/
+dist/
+build/
+coverage/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

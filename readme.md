@@ -19,6 +19,21 @@ O sistema é dividido em quatro portais:
 
 **Serviços:** agendamento, gestão de atendimentos, gestão de medicamentos, autenticação e gestão de usuários.
 
+## Tecnologias e estrutura inicial
+
+- **Front-end:** Next.js com React e JavaScript.
+- **Back-end:** Node.js, em uma aplicação separada do front-end.
+
+```text
+frontend/   Front-end e seu package.json
+backend/    Back-end e seu package.json
+docs/       Documentação do projeto
+```
+
+O repositório está na etapa de preparação inicial. Os arquivos `package.json` definem a base dos projetos; ainda não há páginas ou servidor implementados. As dependências do front-end estão declaradas, e as bibliotecas do back-end serão escolhidas posteriormente.
+
+Para o desenvolvimento, é necessário ter Node.js e npm instalados.
+
 ## Quadro Kanban
 
 (https://github.com/users/LucasOSRodrigues/projects/5)
